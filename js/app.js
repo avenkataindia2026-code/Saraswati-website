@@ -51,7 +51,7 @@ const navStates = {
         icon: './img/icon.webp',
         links: [
             { id: 'nav-dl', text: 'Download App', href: 'https://play.google.com/store/apps/details?id=com.tuner.saraswati', type: 'link' },
-            { id: 'nav-yt', text: 'Watch Tutorials', href: 'https://youtube.com/@SaraswatiTuner', type: 'link' },
+            { id: 'nav-yt', text: 'Watch Tutorials', href: 'https://www.youtube.com/watch?v=bYI8Xfm2LJ8', type: 'link' },
             { id: 'nav-comm', text: 'Community', href: '#', type: 'state', target: 'community' },
             { id: 'nav-about', text: 'About Saraswati', href: '#', type: 'action', fx: showAbout }
         ]
